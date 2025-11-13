@@ -1,0 +1,5 @@
+can=float(input("nhap can nang :"))
+cao=float(input("nhap chieu cao :"))
+bmi=can/(cao*cao)
+kq=round(bmi,2)
+print(kq)
